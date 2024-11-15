@@ -1,0 +1,12 @@
+UserID,ProductID,ProductName,Category,PriceRange,Brand,Purchase
+1,101,Button,Accessories,Low,BrandA,Yes
+1,102,Carrot,Groceries,Low,BrandB,Yes
+1,103,Shirt,Clothing,Medium,BrandC,Yes
+2,104,Button,Accessories,Low,BrandA,Yes
+2,105,Pants,Clothing,High,BrandC,No
+3,106,Carrot,Groceries,Low,BrandB,Yes
+3,107,Apple,Groceries,Low,BrandD,Yes
+4,108,Shoes,Clothing,High,BrandC,Yes
+4,109,Hat,Accessories,Medium,BrandA,No
+5,110,Onion,Groceries,Low,BrandB,Yes
+5,111,Tomato,Groceries,Low,BrandD,Yes

@@ -1,0 +1,44 @@
+{
+    "Electronics": [
+        {
+            "product": "Smartphone",
+            "buyers": 150
+        },
+        {
+            "product": "Laptop",
+            "buyers": 120
+        },
+        {
+            "product": "Headphones",
+            "buyers": 100
+        }
+    ],
+    "Clothing": [
+        {
+            "product": "Jeans",
+            "buyers": 200
+        },
+        {
+            "product": "T-shirt",
+            "buyers": 180
+        },
+        {
+            "product": "Jacket",
+            "buyers": 160
+        }
+    ],
+    "Books": [
+        {
+            "product": "Fiction",
+            "buyers": 250
+        },
+        {
+            "product": "Non-fiction",
+            "buyers": 220
+        },
+        {
+            "product": "Comics",
+            "buyers": 210
+        }
+    ]
+}
